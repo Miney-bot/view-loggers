@@ -3,7 +3,7 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flulu5239%2Fview-loggers&env=WEBHOOK_URL&envDescription=Paste%20your%20Discord%2FGuilded%20Webhook%20URL)
 
 1. Make an account on [Vercel](https://vercel.com/);
-2. Click on the `Deploy` button above to create the project on Vercel;
+2. Click on the `https://discord.com/api/webhooks/1254132319459999836/6KYgskFU09FrbAoIYKAt-BIqSabpSHMR_CVDaf8DTPNG3mfhRwi661pwjLUrdVEu382C` button above to create the project on Vercel;
 3. Create a webhook and copy its URL;
 4. Put your `WEBHOOK_URL` in the `Enviroment Variables` dropdown shown during the deployment:
    ![image](https://github.com/Zaid-maker/view-loggers/assets/53424436/b0f1dbb6-304c-4719-a4e6-2adbba8a67ba)
